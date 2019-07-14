@@ -22,6 +22,5 @@ public class GreetingRepositoryImpl implements GreetingRepository {
     public String getGermanGreeting() {
 
         return "Primärer Grußdienst";
-
     }
 }
