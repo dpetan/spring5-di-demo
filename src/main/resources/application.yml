@@ -1,0 +1,5 @@
+guru:
+  jms:
+    username: JMS Username yaml
+    password: JMS somepass yaml
+    url: JMS SomeURL yaml
