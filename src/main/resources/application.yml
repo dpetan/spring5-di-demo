@@ -3,3 +3,12 @@ guru:
     username: JMS Username yaml
     password: JMS somepass yaml
     url: JMS SomeURL yaml
+
+---
+
+spring:
+  profiles: de
+
+guru:
+  jms:
+    username: JMS Username yaml $$$$$$ German
